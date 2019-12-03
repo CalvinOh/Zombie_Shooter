@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieSurvivalShooter", "ZombieSurvivalShooter\ZombieSurvivalShooter.csproj", "{E5974273-9FA0-495B-B5B3-35C0DD431598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameLibrary", "MonoGameLibrary\MonoGameLibrary.csproj", "{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5974273-9FA0-495B-B5B3-35C0DD431598}.Debug|x86.ActiveCfg = Debug|x86
+		{E5974273-9FA0-495B-B5B3-35C0DD431598}.Debug|x86.Build.0 = Debug|x86
+		{E5974273-9FA0-495B-B5B3-35C0DD431598}.Release|x86.ActiveCfg = Release|x86
+		{E5974273-9FA0-495B-B5B3-35C0DD431598}.Release|x86.Build.0 = Release|x86
+		{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}.Debug|x86.ActiveCfg = Debug|x86
+		{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}.Debug|x86.Build.0 = Debug|x86
+		{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}.Release|x86.ActiveCfg = Release|x86
+		{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {919359B1-F094-4FAE-935F-67103EA0CAA1}
+	EndGlobalSection
+EndGlobal
